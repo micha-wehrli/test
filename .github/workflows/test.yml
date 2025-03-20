@@ -6,6 +6,7 @@ on:
 
 jobs:
   commits:
+    runs-on: ubuntu-latest
     steps:
       - name: Test
         uses: micha-wehrli/test@836c84ec59a0e7bc0eabc79988384eb567561ee2
