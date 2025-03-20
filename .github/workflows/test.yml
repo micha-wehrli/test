@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Test
-        uses: micha-wehrli/test@c878a2d3eed45ee898c96c75cc88ba0e637a31e3
+        uses: micha-wehrli/action-test@c878a2d3eed45ee898c96c75cc88ba0e637a31e3
